@@ -1,0 +1,16 @@
+# Site configuration
+baseURL = "https://joaotome.org/"  # replace with your actual URL when deploying
+languageCode = "en-us"
+title = "being emot"
+theme = "PaperMod"
+
+# PaperMod theme settings (adjust these as needed)
+[params]
+  author = "João Tomé"
+  showReadingTime = true
+  showToc = true  # Show table of contents
+  defaultTheme = "auto"  # options: auto, light, dark
+  disableThemeToggle = false
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
